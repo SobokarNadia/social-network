@@ -1,0 +1,44 @@
+.post{
+  display: flex;
+  margin: 20px 0;
+  flex-direction: column;
+
+  &_header{
+    display: flex;
+    .photo{
+      margin: 0 15px 0 0;
+    }
+    .info{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+
+      .name{
+        color: #004CA4;
+        font-size: 20px;
+      }
+      .date{
+        color: #003B7E;
+        font-size: 18px;
+        font-family: 'Monserrat-Light';
+      }
+    }
+  }
+  &_content{
+    color: #003B7E;
+    font-size: 20px;
+    font-family: 'Monserrat-Regular';
+    margin: 15px 0;
+  }
+  .like{
+    font-family: 'Monserrat-Light';
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+
+    .likeButton{
+      cursor: pointer;
+      margin: 0 10px 0 0;
+    }
+  }
+}

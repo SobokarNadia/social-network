@@ -1,0 +1,21 @@
+.frienedsBlock{
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  .title{
+    font-size: 30px;
+  }
+  .friends{
+    display: flex;
+    justify-content: space-between;
+    .friend{
+      display: flex;
+      flex-direction: column;
+      margin: 5px 5px;
+      .img{
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+}

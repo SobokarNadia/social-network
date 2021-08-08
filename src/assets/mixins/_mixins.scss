@@ -1,0 +1,17 @@
+@mixin textarea($width, $height, $color: #004CA4, $border-radius: 5px){
+  border:   2px solid $color;
+  border-radius: $border-radius;
+  width: $width;
+  height: $height;
+}
+
+@mixin button ($width, $height, $border-radius: 10px, $background-color: #004CA4, $color: #fff){
+  background-color: $background-color;
+  color: $color;
+  border-radius: $border-radius;
+  width: $width;
+  height: $height;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+}

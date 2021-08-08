@@ -1,0 +1,70 @@
+.loginPage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .logo{
+    margin: 40px 0 50px 0;
+  }
+  .subhead{
+    font-size: 40px;
+    color: #004CA4;
+    font-family: Monserrat-SemiBold;
+    margin: 0 0 45px 0;
+  }
+  .loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vw;
+
+    .input {
+      border: 2px solid #003F8A;
+      border-radius: 7px;
+      padding: 15px 17px;
+      margin: 10px 0;
+      width: 100%;
+
+      &::placeholder {
+        font-size: 20px;
+        color: #004CA4;
+        font-family: 'Monserrat-Regular';
+      }
+    }
+
+    .error {
+      color: #fff;
+      background-color: #b4131d;
+      padding: 5px;
+      border-radius: 5px;
+      width: max-content;
+      margin: 5px;
+    }
+
+    .checkbox {
+      margin: 10px 0 55px 0;
+      color: #004CA4;
+    }
+    .button{
+      color: rgba(0, 102, 255, 1);
+      border: 3px solid rgba(0, 102, 255, 1);
+      border-radius: 50px;
+      background-color: #fff;
+      font-family: 'Monserrat-SemiBold';
+      font-size: 20px;
+      padding: 17px 65px;
+
+      &:disabled{
+        background-color: #e5f1ff;
+      }
+    }
+
+  .test{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 55px 0;
+    .captcha {
+
+    }
+  }
+  }
+}

@@ -1,0 +1,35 @@
+@import "../../../assets/mixins/mixins";
+
+.myPosts{
+  font-family: 'Monserrat-Medium';
+
+
+  .header{
+    color: #003B7E;
+    font-size: 23px;
+    font-weight: bolder;
+    margin: 40px 0;
+
+  }
+  .textarea{
+    @include textarea(500px, 160px);
+    resize: none;
+    color: rgba(0, 28, 129, 1);
+    font-family: "Monserrat-Regular";
+    font-size: 18px;
+    line-height: 21px;
+    padding: 15px 20px;
+  }
+  .error{
+    color: #fff;
+    background-color: #b4131d;
+    padding: 5px;
+    border-radius: 5px;
+    width: max-content;
+  }
+  .button{
+    @include button(140px, 40px);
+    align-self: flex-end;
+    margin: 20px 0;
+  }
+}

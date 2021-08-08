@@ -1,0 +1,67 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 0 20% 0 5%;
+  width: 100%;
+
+  .profileInfo{
+    color: #003B7E;
+    font-size: 18px;
+    padding: 0 0 35px 0;
+
+  .header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .userImage{
+      height: 150px;
+      width: 150px;
+      margin: 44px 0 5px 0;
+      border-radius: 50%;
+    }
+    .editPhotoButton{
+      color: #004CA4;
+      text-decoration: underline;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .userName{
+      font-size: 20px;
+      margin: 16px 0 16px 0;
+      font-weight: 600;
+    }
+    .status{
+      border: 2px solid #003B7E;
+      border-radius: 8px;
+      padding: 10px 20px;
+      outline: none;
+      color: #003B7E;
+      font-size: 18px;
+      font-family: 'Monserrat-Regular';
+    }
+  }
+  .profileInformation{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    .point{
+      display: flex;
+      padding-top: 16px;
+      .name{
+        font-weight: bold;
+      }
+      .value{}
+    }
+
+    .editInformationButton{
+      color: #004CA4;
+      text-decoration: underline;
+      font-size: 16px;
+      padding-top: 32px;
+      cursor: pointer;
+    }
+  }
+  }
+}

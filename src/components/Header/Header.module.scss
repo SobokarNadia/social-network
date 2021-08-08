@@ -1,0 +1,22 @@
+.header{
+  grid-area: h;
+  background-color: #0075FF;
+  display: flex;
+  padding: 14px 21vw;
+  align-items: center;
+  justify-content: space-between;
+  
+  .logo{
+    height: 52px;
+    width: 52px;
+  }
+  .logging{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+
+    .link{
+      color: #fff;
+    }
+  }
+}
