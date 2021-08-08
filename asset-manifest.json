@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/social-network/static/css/main.5ed32202.chunk.css",
+    "main.js": "/social-network/static/js/main.da585fa3.chunk.js",
+    "main.js.map": "/social-network/static/js/main.da585fa3.chunk.js.map",
+    "runtime-main.js": "/social-network/static/js/runtime-main.a0be7b63.js",
+    "runtime-main.js.map": "/social-network/static/js/runtime-main.a0be7b63.js.map",
+    "static/js/2.6ed60757.chunk.js": "/social-network/static/js/2.6ed60757.chunk.js",
+    "static/js/2.6ed60757.chunk.js.map": "/social-network/static/js/2.6ed60757.chunk.js.map",
+    "static/js/3.9152b6c1.chunk.js": "/social-network/static/js/3.9152b6c1.chunk.js",
+    "static/js/3.9152b6c1.chunk.js.map": "/social-network/static/js/3.9152b6c1.chunk.js.map",
+    "index.html": "/social-network/index.html",
+    "static/css/main.5ed32202.chunk.css.map": "/social-network/static/css/main.5ed32202.chunk.css.map",
+    "static/js/2.6ed60757.chunk.js.LICENSE.txt": "/social-network/static/js/2.6ed60757.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/social-network/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/dialogsIcon.6c4195ab.svg": "/social-network/static/media/dialogsIcon.6c4195ab.svg",
+    "static/media/dialogsSelectedIcon.f9268724.svg": "/social-network/static/media/dialogsSelectedIcon.f9268724.svg",
+    "static/media/like.6d75e006.svg": "/social-network/static/media/like.6d75e006.svg",
+    "static/media/logo_BIG.335f082e.svg": "/social-network/static/media/logo_BIG.335f082e.svg",
+    "static/media/musicIcon.ade37987.svg": "/social-network/static/media/musicIcon.ade37987.svg",
+    "static/media/musicSelectedIcon.398198fd.svg": "/social-network/static/media/musicSelectedIcon.398198fd.svg",
+    "static/media/newsIcon.52816a4b.svg": "/social-network/static/media/newsIcon.52816a4b.svg",
+    "static/media/preloader.8351813d.svg": "/social-network/static/media/preloader.8351813d.svg",
+    "static/media/profileIcon.96e01825.svg": "/social-network/static/media/profileIcon.96e01825.svg",
+    "static/media/settingsIcon.dbb2f72a.svg": "/social-network/static/media/settingsIcon.dbb2f72a.svg",
+    "static/media/settingsSelectedIcon.ef86fbb3.svg": "/social-network/static/media/settingsSelectedIcon.ef86fbb3.svg",
+    "static/media/userImg.9666fb5d.svg": "/social-network/static/media/userImg.9666fb5d.svg",
+    "static/media/userImg1.6436d584.svg": "/social-network/static/media/userImg1.6436d584.svg",
+    "static/media/userImg2.31ccf65a.svg": "/social-network/static/media/userImg2.31ccf65a.svg",
+    "static/media/userImg3.a1dd3f5f.svg": "/social-network/static/media/userImg3.a1dd3f5f.svg",
+    "static/media/userImg4.4f30be80.svg": "/social-network/static/media/userImg4.4f30be80.svg",
+    "static/media/userImg5.56c55fc1.svg": "/social-network/static/media/userImg5.56c55fc1.svg",
+    "static/media/userImg6.ccd011fb.svg": "/social-network/static/media/userImg6.ccd011fb.svg",
+    "static/media/usersIcon.95fb99cc.svg": "/social-network/static/media/usersIcon.95fb99cc.svg",
+    "static/media/usersSelectedIcon.662cc991.svg": "/social-network/static/media/usersSelectedIcon.662cc991.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0be7b63.js",
+    "static/js/2.6ed60757.chunk.js",
+    "static/css/main.5ed32202.chunk.css",
+    "static/js/main.da585fa3.chunk.js"
+  ]
+}
